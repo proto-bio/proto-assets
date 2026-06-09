@@ -1043,6 +1043,13 @@
         "carousel": "images/optimizer/rejection-sampling/carousel.png",
         "hero": "images/optimizer/rejection-sampling/hero.png"
       }
+    },
+    "tool/meme": {
+      "variants": {
+        "social": "images/tool/meme/social.png",
+        "carousel": "images/tool/meme/carousel.png",
+        "hero": "images/tool/meme/hero.png"
+      }
     }
   }
 }
