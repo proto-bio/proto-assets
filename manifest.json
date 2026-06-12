@@ -50,6 +50,13 @@
         "hero": "images/tool/bindcraft/hero.png"
       }
     },
+    "tool/freebindcraft": {
+      "variants": {
+        "social": "images/tool/freebindcraft/social.png",
+        "carousel": "images/tool/freebindcraft/carousel.png",
+        "hero": "images/tool/freebindcraft/hero.png"
+      }
+    },
     "tool/germinal": {
       "variants": {
         "social": "images/tool/germinal/social.png",
