@@ -1016,6 +1016,20 @@
         "hero": "images/generator/semigreedy-mutation/hero.png"
       }
     },
+    "generator/freebindcraft": {
+      "variants": {
+        "social": "images/generator/freebindcraft/social.png",
+        "carousel": "images/generator/freebindcraft/carousel.png",
+        "hero": "images/generator/freebindcraft/hero.png"
+      }
+    },
+    "generator/rfdiffusion-proteinmpnn-binder": {
+      "variants": {
+        "social": "images/generator/rfdiffusion-proteinmpnn-binder/social.png",
+        "carousel": "images/generator/rfdiffusion-proteinmpnn-binder/carousel.png",
+        "hero": "images/generator/rfdiffusion-proteinmpnn-binder/hero.png"
+      }
+    },
     "optimizer/beam-search": {
       "variants": {
         "social": "images/optimizer/beam-search/social.png",
