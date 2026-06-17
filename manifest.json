@@ -42,6 +42,28 @@
       "hero": "default/optimizer/hero.png"
     }
   },
+  "covers": {
+    "open-wings-code": {
+      "social": "covers/open-wings-code/social.png",
+      "carousel": "covers/open-wings-code/carousel.png",
+      "hero": "covers/open-wings-code/hero.png"
+    },
+    "open-wings-dna": {
+      "social": "covers/open-wings-dna/social.png",
+      "carousel": "covers/open-wings-dna/carousel.png",
+      "hero": "covers/open-wings-dna/hero.png"
+    },
+    "side-wings-code": {
+      "social": "covers/side-wings-code/social.png",
+      "carousel": "covers/side-wings-code/carousel.png",
+      "hero": "covers/side-wings-code/hero.png"
+    },
+    "side-wings-dna": {
+      "social": "covers/side-wings-dna/social.png",
+      "carousel": "covers/side-wings-dna/carousel.png",
+      "hero": "covers/side-wings-dna/hero.png"
+    }
+  },
   "entities": {
     "tool/bindcraft": {
       "variants": {
