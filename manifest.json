@@ -1,0 +1,1490 @@
+{
+  "version": 1,
+  "base_url": "https://proto-bio.github.io/proto-assets",
+  "variants": {
+    "social": [
+      1200,
+      630
+    ],
+    "carousel": [
+      1200,
+      630
+    ],
+    "hero": [
+      1600,
+      500
+    ],
+    "app": [
+      1200,
+      630
+    ],
+    "hero_plain": [
+      1600,
+      500
+    ]
+  },
+  "default": {
+    "social": "default/social.png",
+    "carousel": "default/carousel.png",
+    "hero": "default/hero.png"
+  },
+  "kind_defaults": {
+    "tool": {
+      "social": "default/tool/social.png",
+      "carousel": "default/tool/carousel.png",
+      "hero": "default/tool/hero.png",
+      "app": "default/tool/app.png",
+      "hero_plain": "default/tool/hero_plain.png"
+    },
+    "constraint": {
+      "social": "default/constraint/social.png",
+      "carousel": "default/constraint/carousel.png",
+      "hero": "default/constraint/hero.png"
+    },
+    "generator": {
+      "social": "default/generator/social.png",
+      "carousel": "default/generator/carousel.png",
+      "hero": "default/generator/hero.png"
+    },
+    "optimizer": {
+      "social": "default/optimizer/social.png",
+      "carousel": "default/optimizer/carousel.png",
+      "hero": "default/optimizer/hero.png"
+    }
+  },
+  "covers": {
+    "open-wings-code": {
+      "social": "covers/open-wings-code/social.png",
+      "carousel": "covers/open-wings-code/carousel.png",
+      "hero": "covers/open-wings-code/hero.png"
+    },
+    "open-wings-dna": {
+      "social": "covers/open-wings-dna/social.png",
+      "carousel": "covers/open-wings-dna/carousel.png",
+      "hero": "covers/open-wings-dna/hero.png"
+    },
+    "side-wings-code": {
+      "social": "covers/side-wings-code/social.png",
+      "carousel": "covers/side-wings-code/carousel.png",
+      "hero": "covers/side-wings-code/hero.png"
+    },
+    "side-wings-dna": {
+      "social": "covers/side-wings-dna/social.png",
+      "carousel": "covers/side-wings-dna/carousel.png",
+      "hero": "covers/side-wings-dna/hero.png"
+    }
+  },
+  "entities": {
+    "tool/bindcraft": {
+      "variants": {
+        "social": "images/tool/bindcraft/social.png",
+        "carousel": "images/tool/bindcraft/carousel.png",
+        "hero": "images/tool/bindcraft/hero.png",
+        "app": "images/tool/bindcraft/app.png",
+        "hero_plain": "images/tool/bindcraft/hero_plain.png"
+      }
+    },
+    "tool/freebindcraft": {
+      "variants": {
+        "social": "images/tool/freebindcraft/social.png",
+        "carousel": "images/tool/freebindcraft/carousel.png",
+        "hero": "images/tool/freebindcraft/hero.png",
+        "app": "images/tool/freebindcraft/app.png",
+        "hero_plain": "images/tool/freebindcraft/hero_plain.png"
+      }
+    },
+    "tool/germinal": {
+      "variants": {
+        "social": "images/tool/germinal/social.png",
+        "carousel": "images/tool/germinal/carousel.png",
+        "hero": "images/tool/germinal/hero.png",
+        "app": "images/tool/germinal/app.png",
+        "hero_plain": "images/tool/germinal/hero_plain.png"
+      }
+    },
+    "tool/evo1": {
+      "variants": {
+        "social": "images/tool/evo1/social.png",
+        "carousel": "images/tool/evo1/carousel.png",
+        "hero": "images/tool/evo1/hero.png",
+        "app": "images/tool/evo1/app.png",
+        "hero_plain": "images/tool/evo1/hero_plain.png"
+      }
+    },
+    "tool/evo2": {
+      "variants": {
+        "social": "images/tool/evo2/social.png",
+        "carousel": "images/tool/evo2/carousel.png",
+        "hero": "images/tool/evo2/hero.png",
+        "app": "images/tool/evo2/app.png",
+        "hero_plain": "images/tool/evo2/hero_plain.png"
+      }
+    },
+    "tool/progen2": {
+      "variants": {
+        "social": "images/tool/progen2/social.png",
+        "carousel": "images/tool/progen2/carousel.png",
+        "hero": "images/tool/progen2/hero.png",
+        "app": "images/tool/progen2/app.png",
+        "hero_plain": "images/tool/progen2/hero_plain.png"
+      }
+    },
+    "tool/progen3": {
+      "variants": {
+        "social": "images/tool/progen3/social.png",
+        "carousel": "images/tool/progen3/carousel.png",
+        "hero": "images/tool/progen3/hero.png",
+        "app": "images/tool/progen3/app.png",
+        "hero_plain": "images/tool/progen3/hero_plain.png"
+      }
+    },
+    "tool/alphafold_db": {
+      "variants": {
+        "social": "images/tool/alphafold_db/social.png",
+        "carousel": "images/tool/alphafold_db/carousel.png",
+        "hero": "images/tool/alphafold_db/hero.png",
+        "app": "images/tool/alphafold_db/app.png",
+        "hero_plain": "images/tool/alphafold_db/hero_plain.png"
+      }
+    },
+    "tool/alphamissense_db": {
+      "variants": {
+        "social": "images/tool/alphamissense_db/social.png",
+        "carousel": "images/tool/alphamissense_db/carousel.png",
+        "hero": "images/tool/alphamissense_db/hero.png",
+        "app": "images/tool/alphamissense_db/app.png",
+        "hero_plain": "images/tool/alphamissense_db/hero_plain.png"
+      }
+    },
+    "tool/ccd_lookup": {
+      "variants": {
+        "social": "images/tool/ccd_lookup/social.png",
+        "carousel": "images/tool/ccd_lookup/carousel.png",
+        "hero": "images/tool/ccd_lookup/hero.png",
+        "app": "images/tool/ccd_lookup/app.png",
+        "hero_plain": "images/tool/ccd_lookup/hero_plain.png"
+      }
+    },
+    "tool/ensembl": {
+      "variants": {
+        "social": "images/tool/ensembl/social.png",
+        "carousel": "images/tool/ensembl/carousel.png",
+        "hero": "images/tool/ensembl/hero.png",
+        "app": "images/tool/ensembl/app.png",
+        "hero_plain": "images/tool/ensembl/hero_plain.png"
+      }
+    },
+    "tool/interproscan": {
+      "variants": {
+        "social": "images/tool/interproscan/social.png",
+        "carousel": "images/tool/interproscan/carousel.png",
+        "hero": "images/tool/interproscan/hero.png",
+        "app": "images/tool/interproscan/app.png",
+        "hero_plain": "images/tool/interproscan/hero_plain.png"
+      }
+    },
+    "tool/ncbi": {
+      "variants": {
+        "social": "images/tool/ncbi/social.png",
+        "carousel": "images/tool/ncbi/carousel.png",
+        "hero": "images/tool/ncbi/hero.png",
+        "app": "images/tool/ncbi/app.png",
+        "hero_plain": "images/tool/ncbi/hero_plain.png"
+      }
+    },
+    "tool/pdb": {
+      "variants": {
+        "social": "images/tool/pdb/social.png",
+        "carousel": "images/tool/pdb/carousel.png",
+        "hero": "images/tool/pdb/hero.png",
+        "app": "images/tool/pdb/app.png",
+        "hero_plain": "images/tool/pdb/hero_plain.png"
+      }
+    },
+    "tool/pubchem": {
+      "variants": {
+        "social": "images/tool/pubchem/social.png",
+        "carousel": "images/tool/pubchem/carousel.png",
+        "hero": "images/tool/pubchem/hero.png",
+        "app": "images/tool/pubchem/app.png",
+        "hero_plain": "images/tool/pubchem/hero_plain.png"
+      }
+    },
+    "tool/sequence_fetch": {
+      "variants": {
+        "social": "images/tool/sequence_fetch/social.png",
+        "carousel": "images/tool/sequence_fetch/carousel.png",
+        "hero": "images/tool/sequence_fetch/hero.png",
+        "app": "images/tool/sequence_fetch/app.png",
+        "hero_plain": "images/tool/sequence_fetch/hero_plain.png"
+      }
+    },
+    "tool/uniprot": {
+      "variants": {
+        "social": "images/tool/uniprot/social.png",
+        "carousel": "images/tool/uniprot/carousel.png",
+        "hero": "images/tool/uniprot/hero.png",
+        "app": "images/tool/uniprot/app.png",
+        "hero_plain": "images/tool/uniprot/hero_plain.png"
+      }
+    },
+    "tool/crispr_tracr_rna": {
+      "variants": {
+        "social": "images/tool/crispr_tracr_rna/social.png",
+        "carousel": "images/tool/crispr_tracr_rna/carousel.png",
+        "hero": "images/tool/crispr_tracr_rna/hero.png",
+        "app": "images/tool/crispr_tracr_rna/app.png",
+        "hero_plain": "images/tool/crispr_tracr_rna/hero_plain.png"
+      }
+    },
+    "tool/meme": {
+      "variants": {
+        "social": "images/tool/meme/social.png",
+        "carousel": "images/tool/meme/carousel.png",
+        "hero": "images/tool/meme/hero.png",
+        "app": "images/tool/meme/app.png",
+        "hero_plain": "images/tool/meme/hero_plain.png"
+      }
+    },
+    "tool/minced": {
+      "variants": {
+        "social": "images/tool/minced/social.png",
+        "carousel": "images/tool/minced/carousel.png",
+        "hero": "images/tool/minced/hero.png",
+        "app": "images/tool/minced/app.png",
+        "hero_plain": "images/tool/minced/hero_plain.png"
+      }
+    },
+    "tool/miranda": {
+      "variants": {
+        "social": "images/tool/miranda/social.png",
+        "carousel": "images/tool/miranda/carousel.png",
+        "hero": "images/tool/miranda/hero.png",
+        "app": "images/tool/miranda/app.png",
+        "hero_plain": "images/tool/miranda/hero_plain.png"
+      }
+    },
+    "tool/promoter_calculator": {
+      "variants": {
+        "social": "images/tool/promoter_calculator/social.png",
+        "carousel": "images/tool/promoter_calculator/carousel.png",
+        "hero": "images/tool/promoter_calculator/hero.png",
+        "app": "images/tool/promoter_calculator/app.png",
+        "hero_plain": "images/tool/promoter_calculator/hero_plain.png"
+      }
+    },
+    "tool/pyhmmer": {
+      "variants": {
+        "social": "images/tool/pyhmmer/social.png",
+        "carousel": "images/tool/pyhmmer/carousel.png",
+        "hero": "images/tool/pyhmmer/hero.png",
+        "app": "images/tool/pyhmmer/app.png",
+        "hero_plain": "images/tool/pyhmmer/hero_plain.png"
+      }
+    },
+    "tool/esm_if1": {
+      "variants": {
+        "social": "images/tool/esm_if1/social.png",
+        "carousel": "images/tool/esm_if1/carousel.png",
+        "hero": "images/tool/esm_if1/hero.png",
+        "app": "images/tool/esm_if1/app.png",
+        "hero_plain": "images/tool/esm_if1/hero_plain.png"
+      }
+    },
+    "tool/fampnn": {
+      "variants": {
+        "social": "images/tool/fampnn/social.png",
+        "carousel": "images/tool/fampnn/carousel.png",
+        "hero": "images/tool/fampnn/hero.png",
+        "app": "images/tool/fampnn/app.png",
+        "hero_plain": "images/tool/fampnn/hero_plain.png"
+      }
+    },
+    "tool/ligandmpnn": {
+      "variants": {
+        "social": "images/tool/ligandmpnn/social.png",
+        "carousel": "images/tool/ligandmpnn/carousel.png",
+        "hero": "images/tool/ligandmpnn/hero.png",
+        "app": "images/tool/ligandmpnn/app.png",
+        "hero_plain": "images/tool/ligandmpnn/hero_plain.png"
+      }
+    },
+    "tool/proteinmpnn": {
+      "variants": {
+        "social": "images/tool/proteinmpnn/social.png",
+        "carousel": "images/tool/proteinmpnn/carousel.png",
+        "hero": "images/tool/proteinmpnn/hero.png",
+        "app": "images/tool/proteinmpnn/app.png",
+        "hero_plain": "images/tool/proteinmpnn/hero_plain.png"
+      }
+    },
+    "tool/ablang": {
+      "variants": {
+        "social": "images/tool/ablang/social.png",
+        "carousel": "images/tool/ablang/carousel.png",
+        "hero": "images/tool/ablang/hero.png",
+        "app": "images/tool/ablang/app.png",
+        "hero_plain": "images/tool/ablang/hero_plain.png"
+      }
+    },
+    "tool/esm2": {
+      "variants": {
+        "social": "images/tool/esm2/social.png",
+        "carousel": "images/tool/esm2/carousel.png",
+        "hero": "images/tool/esm2/hero.png",
+        "app": "images/tool/esm2/app.png",
+        "hero_plain": "images/tool/esm2/hero_plain.png"
+      }
+    },
+    "tool/esm3": {
+      "variants": {
+        "social": "images/tool/esm3/social.png",
+        "carousel": "images/tool/esm3/carousel.png",
+        "hero": "images/tool/esm3/hero.png",
+        "app": "images/tool/esm3/app.png",
+        "hero_plain": "images/tool/esm3/hero_plain.png"
+      }
+    },
+    "tool/esmc": {
+      "variants": {
+        "social": "images/tool/esmc/social.png",
+        "carousel": "images/tool/esmc/carousel.png",
+        "hero": "images/tool/esmc/hero.png",
+        "app": "images/tool/esmc/app.png",
+        "hero_plain": "images/tool/esmc/hero_plain.png"
+      }
+    },
+    "tool/random_nucleotide": {
+      "variants": {
+        "social": "images/tool/random_nucleotide/social.png",
+        "carousel": "images/tool/random_nucleotide/carousel.png",
+        "hero": "images/tool/random_nucleotide/hero.png",
+        "app": "images/tool/random_nucleotide/app.png",
+        "hero_plain": "images/tool/random_nucleotide/hero_plain.png"
+      }
+    },
+    "tool/random_protein": {
+      "variants": {
+        "social": "images/tool/random_protein/social.png",
+        "carousel": "images/tool/random_protein/carousel.png",
+        "hero": "images/tool/random_protein/hero.png",
+        "app": "images/tool/random_protein/app.png",
+        "hero_plain": "images/tool/random_protein/hero_plain.png"
+      }
+    },
+    "tool/orfipy": {
+      "variants": {
+        "social": "images/tool/orfipy/social.png",
+        "carousel": "images/tool/orfipy/carousel.png",
+        "hero": "images/tool/orfipy/hero.png",
+        "app": "images/tool/orfipy/app.png",
+        "hero_plain": "images/tool/orfipy/hero_plain.png"
+      }
+    },
+    "tool/prodigal": {
+      "variants": {
+        "social": "images/tool/prodigal/social.png",
+        "carousel": "images/tool/prodigal/carousel.png",
+        "hero": "images/tool/prodigal/hero.png",
+        "app": "images/tool/prodigal/app.png",
+        "hero_plain": "images/tool/prodigal/hero_plain.png"
+      }
+    },
+    "tool/pangolin": {
+      "variants": {
+        "social": "images/tool/pangolin/social.png",
+        "carousel": "images/tool/pangolin/carousel.png",
+        "hero": "images/tool/pangolin/hero.png",
+        "app": "images/tool/pangolin/app.png",
+        "hero_plain": "images/tool/pangolin/hero_plain.png"
+      }
+    },
+    "tool/splice_transformer": {
+      "variants": {
+        "social": "images/tool/splice_transformer/social.png",
+        "carousel": "images/tool/splice_transformer/carousel.png",
+        "hero": "images/tool/splice_transformer/hero.png",
+        "app": "images/tool/splice_transformer/app.png",
+        "hero_plain": "images/tool/splice_transformer/hero_plain.png"
+      }
+    },
+    "tool/spliceai": {
+      "variants": {
+        "social": "images/tool/spliceai/social.png",
+        "carousel": "images/tool/spliceai/carousel.png",
+        "hero": "images/tool/spliceai/hero.png",
+        "app": "images/tool/spliceai/app.png",
+        "hero_plain": "images/tool/spliceai/hero_plain.png"
+      }
+    },
+    "tool/blast": {
+      "variants": {
+        "social": "images/tool/blast/social.png",
+        "carousel": "images/tool/blast/carousel.png",
+        "hero": "images/tool/blast/hero.png",
+        "app": "images/tool/blast/app.png",
+        "hero_plain": "images/tool/blast/hero_plain.png"
+      }
+    },
+    "tool/mafft": {
+      "variants": {
+        "social": "images/tool/mafft/social.png",
+        "carousel": "images/tool/mafft/carousel.png",
+        "hero": "images/tool/mafft/hero.png",
+        "app": "images/tool/mafft/app.png",
+        "hero_plain": "images/tool/mafft/hero_plain.png"
+      }
+    },
+    "tool/mmseqs2": {
+      "variants": {
+        "social": "images/tool/mmseqs2/social.png",
+        "carousel": "images/tool/mmseqs2/carousel.png",
+        "hero": "images/tool/mmseqs2/hero.png",
+        "app": "images/tool/mmseqs2/app.png",
+        "hero_plain": "images/tool/mmseqs2/hero_plain.png"
+      }
+    },
+    "tool/alphagenome": {
+      "variants": {
+        "social": "images/tool/alphagenome/social.png",
+        "carousel": "images/tool/alphagenome/carousel.png",
+        "hero": "images/tool/alphagenome/hero.png",
+        "app": "images/tool/alphagenome/app.png",
+        "hero_plain": "images/tool/alphagenome/hero_plain.png"
+      }
+    },
+    "tool/borzoi": {
+      "variants": {
+        "social": "images/tool/borzoi/social.png",
+        "carousel": "images/tool/borzoi/carousel.png",
+        "hero": "images/tool/borzoi/hero.png",
+        "app": "images/tool/borzoi/app.png",
+        "hero_plain": "images/tool/borzoi/hero_plain.png"
+      }
+    },
+    "tool/deeppbs_specificity": {
+      "variants": {
+        "social": "images/tool/deeppbs_specificity/social.png",
+        "carousel": "images/tool/deeppbs_specificity/carousel.png",
+        "hero": "images/tool/deeppbs_specificity/hero.png",
+        "app": "images/tool/deeppbs_specificity/app.png",
+        "hero_plain": "images/tool/deeppbs_specificity/hero_plain.png"
+      }
+    },
+    "tool/enformer": {
+      "variants": {
+        "social": "images/tool/enformer/social.png",
+        "carousel": "images/tool/enformer/carousel.png",
+        "hero": "images/tool/enformer/hero.png",
+        "app": "images/tool/enformer/app.png",
+        "hero_plain": "images/tool/enformer/hero_plain.png"
+      }
+    },
+    "tool/malinois": {
+      "variants": {
+        "social": "images/tool/malinois/social.png",
+        "carousel": "images/tool/malinois/carousel.png",
+        "hero": "images/tool/malinois/hero.png",
+        "app": "images/tool/malinois/app.png",
+        "hero_plain": "images/tool/malinois/hero_plain.png"
+      }
+    },
+    "tool/na_mpnn_specificity": {
+      "variants": {
+        "social": "images/tool/na_mpnn_specificity/social.png",
+        "carousel": "images/tool/na_mpnn_specificity/carousel.png",
+        "hero": "images/tool/na_mpnn_specificity/hero.png",
+        "app": "images/tool/na_mpnn_specificity/app.png",
+        "hero_plain": "images/tool/na_mpnn_specificity/hero_plain.png"
+      }
+    },
+    "tool/parade": {
+      "variants": {
+        "social": "images/tool/parade/social.png",
+        "carousel": "images/tool/parade/carousel.png",
+        "hero": "images/tool/parade/hero.png",
+        "app": "images/tool/parade/app.png",
+        "hero_plain": "images/tool/parade/hero_plain.png"
+      }
+    },
+    "tool/puffin": {
+      "variants": {
+        "social": "images/tool/puffin/social.png",
+        "carousel": "images/tool/puffin/carousel.png",
+        "hero": "images/tool/puffin/hero.png",
+        "app": "images/tool/puffin/app.png",
+        "hero_plain": "images/tool/puffin/hero_plain.png"
+      }
+    },
+    "tool/segmasker": {
+      "variants": {
+        "social": "images/tool/segmasker/social.png",
+        "carousel": "images/tool/segmasker/carousel.png",
+        "hero": "images/tool/segmasker/hero.png",
+        "app": "images/tool/segmasker/app.png",
+        "hero_plain": "images/tool/segmasker/hero_plain.png"
+      }
+    },
+    "tool/foldmason": {
+      "variants": {
+        "social": "images/tool/foldmason/social.png",
+        "carousel": "images/tool/foldmason/carousel.png",
+        "hero": "images/tool/foldmason/hero.png",
+        "app": "images/tool/foldmason/app.png",
+        "hero_plain": "images/tool/foldmason/hero_plain.png"
+      }
+    },
+    "tool/foldseek": {
+      "variants": {
+        "social": "images/tool/foldseek/social.png",
+        "carousel": "images/tool/foldseek/carousel.png",
+        "hero": "images/tool/foldseek/hero.png",
+        "app": "images/tool/foldseek/app.png",
+        "hero_plain": "images/tool/foldseek/hero_plain.png"
+      }
+    },
+    "tool/pymol_rmsd": {
+      "variants": {
+        "social": "images/tool/pymol_rmsd/social.png",
+        "carousel": "images/tool/pymol_rmsd/carousel.png",
+        "hero": "images/tool/pymol_rmsd/hero.png",
+        "app": "images/tool/pymol_rmsd/app.png",
+        "hero_plain": "images/tool/pymol_rmsd/hero_plain.png"
+      }
+    },
+    "tool/tmalign": {
+      "variants": {
+        "social": "images/tool/tmalign/social.png",
+        "carousel": "images/tool/tmalign/carousel.png",
+        "hero": "images/tool/tmalign/hero.png",
+        "app": "images/tool/tmalign/app.png",
+        "hero_plain": "images/tool/tmalign/hero_plain.png"
+      }
+    },
+    "tool/usalign": {
+      "variants": {
+        "social": "images/tool/usalign/social.png",
+        "carousel": "images/tool/usalign/carousel.png",
+        "hero": "images/tool/usalign/hero.png",
+        "app": "images/tool/usalign/app.png",
+        "hero_plain": "images/tool/usalign/hero_plain.png"
+      }
+    },
+    "tool/rfdiffusion3": {
+      "variants": {
+        "social": "images/tool/rfdiffusion3/social.png",
+        "carousel": "images/tool/rfdiffusion3/carousel.png",
+        "hero": "images/tool/rfdiffusion3/hero.png",
+        "app": "images/tool/rfdiffusion3/app.png",
+        "hero_plain": "images/tool/rfdiffusion3/hero_plain.png"
+      }
+    },
+    "tool/bioemu": {
+      "variants": {
+        "social": "images/tool/bioemu/social.png",
+        "carousel": "images/tool/bioemu/carousel.png",
+        "hero": "images/tool/bioemu/hero.png",
+        "app": "images/tool/bioemu/app.png",
+        "hero_plain": "images/tool/bioemu/hero_plain.png"
+      }
+    },
+    "tool/alphafold2": {
+      "variants": {
+        "social": "images/tool/alphafold2/social.png",
+        "carousel": "images/tool/alphafold2/carousel.png",
+        "hero": "images/tool/alphafold2/hero.png",
+        "app": "images/tool/alphafold2/app.png",
+        "hero_plain": "images/tool/alphafold2/hero_plain.png"
+      }
+    },
+    "tool/alphafold3": {
+      "variants": {
+        "social": "images/tool/alphafold3/social.png",
+        "carousel": "images/tool/alphafold3/carousel.png",
+        "hero": "images/tool/alphafold3/hero.png",
+        "app": "images/tool/alphafold3/app.png",
+        "hero_plain": "images/tool/alphafold3/hero_plain.png"
+      }
+    },
+    "tool/boltz2": {
+      "variants": {
+        "social": "images/tool/boltz2/social.png",
+        "carousel": "images/tool/boltz2/carousel.png",
+        "hero": "images/tool/boltz2/hero.png",
+        "app": "images/tool/boltz2/app.png",
+        "hero_plain": "images/tool/boltz2/hero_plain.png"
+      }
+    },
+    "tool/chai1": {
+      "variants": {
+        "social": "images/tool/chai1/social.png",
+        "carousel": "images/tool/chai1/carousel.png",
+        "hero": "images/tool/chai1/hero.png",
+        "app": "images/tool/chai1/app.png",
+        "hero_plain": "images/tool/chai1/hero_plain.png"
+      }
+    },
+    "tool/esmfold": {
+      "variants": {
+        "social": "images/tool/esmfold/social.png",
+        "carousel": "images/tool/esmfold/carousel.png",
+        "hero": "images/tool/esmfold/hero.png",
+        "app": "images/tool/esmfold/app.png",
+        "hero_plain": "images/tool/esmfold/hero_plain.png"
+      }
+    },
+    "tool/esmfold2": {
+      "variants": {
+        "social": "images/tool/esmfold2/social.png",
+        "carousel": "images/tool/esmfold2/carousel.png",
+        "hero": "images/tool/esmfold2/hero.png",
+        "app": "images/tool/esmfold2/app.png",
+        "hero_plain": "images/tool/esmfold2/hero_plain.png"
+      }
+    },
+    "tool/opendde": {
+      "variants": {
+        "social": "images/tool/opendde/social.png",
+        "carousel": "images/tool/opendde/carousel.png",
+        "hero": "images/tool/opendde/hero.png",
+        "app": "images/tool/opendde/app.png",
+        "hero_plain": "images/tool/opendde/hero_plain.png"
+      }
+    },
+    "tool/protenix": {
+      "variants": {
+        "social": "images/tool/protenix/social.png",
+        "carousel": "images/tool/protenix/carousel.png",
+        "hero": "images/tool/protenix/hero.png",
+        "app": "images/tool/protenix/app.png",
+        "hero_plain": "images/tool/protenix/hero_plain.png"
+      }
+    },
+    "tool/rf3": {
+      "variants": {
+        "social": "images/tool/rf3/social.png",
+        "carousel": "images/tool/rf3/carousel.png",
+        "hero": "images/tool/rf3/hero.png",
+        "app": "images/tool/rf3/app.png",
+        "hero_plain": "images/tool/rf3/hero_plain.png"
+      }
+    },
+    "tool/viennarna": {
+      "variants": {
+        "social": "images/tool/viennarna/social.png",
+        "carousel": "images/tool/viennarna/carousel.png",
+        "hero": "images/tool/viennarna/hero.png",
+        "app": "images/tool/viennarna/app.png",
+        "hero_plain": "images/tool/viennarna/hero_plain.png"
+      }
+    },
+    "tool/x3dna": {
+      "variants": {
+        "social": "images/tool/x3dna/social.png",
+        "carousel": "images/tool/x3dna/carousel.png",
+        "hero": "images/tool/x3dna/hero.png",
+        "app": "images/tool/x3dna/app.png",
+        "hero_plain": "images/tool/x3dna/hero_plain.png"
+      }
+    },
+    "tool/dssp": {
+      "variants": {
+        "social": "images/tool/dssp/social.png",
+        "carousel": "images/tool/dssp/carousel.png",
+        "hero": "images/tool/dssp/hero.png",
+        "app": "images/tool/dssp/app.png",
+        "hero_plain": "images/tool/dssp/hero_plain.png"
+      }
+    },
+    "tool/ipsae": {
+      "variants": {
+        "social": "images/tool/ipsae/social.png",
+        "carousel": "images/tool/ipsae/carousel.png",
+        "hero": "images/tool/ipsae/hero.png",
+        "app": "images/tool/ipsae/app.png",
+        "hero_plain": "images/tool/ipsae/hero_plain.png"
+      }
+    },
+    "tool/metal3d": {
+      "variants": {
+        "social": "images/tool/metal3d/social.png",
+        "carousel": "images/tool/metal3d/carousel.png",
+        "hero": "images/tool/metal3d/hero.png",
+        "app": "images/tool/metal3d/app.png",
+        "hero_plain": "images/tool/metal3d/hero_plain.png"
+      }
+    },
+    "tool/pdockq2": {
+      "variants": {
+        "social": "images/tool/pdockq2/social.png",
+        "carousel": "images/tool/pdockq2/carousel.png",
+        "hero": "images/tool/pdockq2/hero.png",
+        "app": "images/tool/pdockq2/app.png",
+        "hero_plain": "images/tool/pdockq2/hero_plain.png"
+      }
+    },
+    "tool/pyrosetta": {
+      "variants": {
+        "social": "images/tool/pyrosetta/social.png",
+        "carousel": "images/tool/pyrosetta/carousel.png",
+        "hero": "images/tool/pyrosetta/hero.png",
+        "app": "images/tool/pyrosetta/app.png",
+        "hero_plain": "images/tool/pyrosetta/hero_plain.png"
+      }
+    },
+    "tool/structure_metrics": {
+      "variants": {
+        "social": "images/tool/structure_metrics/social.png",
+        "carousel": "images/tool/structure_metrics/carousel.png",
+        "hero": "images/tool/structure_metrics/hero.png",
+        "app": "images/tool/structure_metrics/app.png",
+        "hero_plain": "images/tool/structure_metrics/hero_plain.png"
+      }
+    },
+    "constraint/balanced-aa": {
+      "variants": {
+        "social": "images/constraint/balanced-aa/social.png",
+        "carousel": "images/constraint/balanced-aa/carousel.png",
+        "hero": "images/constraint/balanced-aa/hero.png"
+      }
+    },
+    "constraint/overall-protein-quality": {
+      "variants": {
+        "social": "images/constraint/overall-protein-quality/social.png",
+        "carousel": "images/constraint/overall-protein-quality/carousel.png",
+        "hero": "images/constraint/overall-protein-quality/hero.png"
+      }
+    },
+    "constraint/protein-complexity": {
+      "variants": {
+        "social": "images/constraint/protein-complexity/social.png",
+        "carousel": "images/constraint/protein-complexity/carousel.png",
+        "hero": "images/constraint/protein-complexity/hero.png"
+      }
+    },
+    "constraint/protein-diversity": {
+      "variants": {
+        "social": "images/constraint/protein-diversity/social.png",
+        "carousel": "images/constraint/protein-diversity/carousel.png",
+        "hero": "images/constraint/protein-diversity/hero.png"
+      }
+    },
+    "constraint/protein-domain": {
+      "variants": {
+        "social": "images/constraint/protein-domain/social.png",
+        "carousel": "images/constraint/protein-domain/carousel.png",
+        "hero": "images/constraint/protein-domain/hero.png"
+      }
+    },
+    "constraint/protein-length": {
+      "variants": {
+        "social": "images/constraint/protein-length/social.png",
+        "carousel": "images/constraint/protein-length/carousel.png",
+        "hero": "images/constraint/protein-length/hero.png"
+      }
+    },
+    "constraint/protein-max-identity": {
+      "variants": {
+        "social": "images/constraint/protein-max-identity/social.png",
+        "carousel": "images/constraint/protein-max-identity/carousel.png",
+        "hero": "images/constraint/protein-max-identity/hero.png"
+      }
+    },
+    "constraint/protein-nearest-neighbor-gap-gini": {
+      "variants": {
+        "social": "images/constraint/protein-nearest-neighbor-gap-gini/social.png",
+        "carousel": "images/constraint/protein-nearest-neighbor-gap-gini/carousel.png",
+        "hero": "images/constraint/protein-nearest-neighbor-gap-gini/hero.png"
+      }
+    },
+    "constraint/protein-profile-hmm": {
+      "variants": {
+        "social": "images/constraint/protein-profile-hmm/social.png",
+        "carousel": "images/constraint/protein-profile-hmm/carousel.png",
+        "hero": "images/constraint/protein-profile-hmm/hero.png"
+      }
+    },
+    "constraint/protein-repetitiveness": {
+      "variants": {
+        "social": "images/constraint/protein-repetitiveness/social.png",
+        "carousel": "images/constraint/protein-repetitiveness/carousel.png",
+        "hero": "images/constraint/protein-repetitiveness/hero.png"
+      }
+    },
+    "constraint/af3-chain-pair-prot-dna-iptm": {
+      "variants": {
+        "social": "images/constraint/af3-chain-pair-prot-dna-iptm/social.png",
+        "carousel": "images/constraint/af3-chain-pair-prot-dna-iptm/carousel.png",
+        "hero": "images/constraint/af3-chain-pair-prot-dna-iptm/hero.png"
+      }
+    },
+    "constraint/af3-offtarget-iptm-specificity": {
+      "variants": {
+        "social": "images/constraint/af3-offtarget-iptm-specificity/social.png",
+        "carousel": "images/constraint/af3-offtarget-iptm-specificity/carousel.png",
+        "hero": "images/constraint/af3-offtarget-iptm-specificity/hero.png"
+      }
+    },
+    "constraint/boltz2-binding-strength": {
+      "variants": {
+        "social": "images/constraint/boltz2-binding-strength/social.png",
+        "carousel": "images/constraint/boltz2-binding-strength/carousel.png",
+        "hero": "images/constraint/boltz2-binding-strength/hero.png"
+      }
+    },
+    "constraint/consensus-operator-specificity": {
+      "variants": {
+        "social": "images/constraint/consensus-operator-specificity/social.png",
+        "carousel": "images/constraint/consensus-operator-specificity/carousel.png",
+        "hero": "images/constraint/consensus-operator-specificity/hero.png"
+      }
+    },
+    "constraint/dbp-design-metrics": {
+      "variants": {
+        "social": "images/constraint/dbp-design-metrics/social.png",
+        "carousel": "images/constraint/dbp-design-metrics/carousel.png",
+        "hero": "images/constraint/dbp-design-metrics/hero.png"
+      }
+    },
+    "constraint/dna-base-contact-quality": {
+      "variants": {
+        "social": "images/constraint/dna-base-contact-quality/social.png",
+        "carousel": "images/constraint/dna-base-contact-quality/carousel.png",
+        "hero": "images/constraint/dna-base-contact-quality/hero.png"
+      }
+    },
+    "constraint/dna-motif-contact-count": {
+      "variants": {
+        "social": "images/constraint/dna-motif-contact-count/social.png",
+        "carousel": "images/constraint/dna-motif-contact-count/carousel.png",
+        "hero": "images/constraint/dna-motif-contact-count/hero.png"
+      }
+    },
+    "constraint/na-mpnn-motif-specificity": {
+      "variants": {
+        "social": "images/constraint/na-mpnn-motif-specificity/social.png",
+        "carousel": "images/constraint/na-mpnn-motif-specificity/carousel.png",
+        "hero": "images/constraint/na-mpnn-motif-specificity/hero.png"
+      }
+    },
+    "constraint/deeppbs-motif-specificity": {
+      "variants": {
+        "social": "images/constraint/deeppbs-motif-specificity/social.png",
+        "carousel": "images/constraint/deeppbs-motif-specificity/carousel.png",
+        "hero": "images/constraint/deeppbs-motif-specificity/hero.png"
+      }
+    },
+    "constraint/dna-phosphate-contact": {
+      "variants": {
+        "social": "images/constraint/dna-phosphate-contact/social.png",
+        "carousel": "images/constraint/dna-phosphate-contact/carousel.png",
+        "hero": "images/constraint/dna-phosphate-contact/hero.png"
+      }
+    },
+    "constraint/gyration-radius": {
+      "variants": {
+        "social": "images/constraint/gyration-radius/social.png",
+        "carousel": "images/constraint/gyration-radius/carousel.png",
+        "hero": "images/constraint/gyration-radius/hero.png"
+      }
+    },
+    "constraint/protein-dna-ipsae": {
+      "variants": {
+        "social": "images/constraint/protein-dna-ipsae/social.png",
+        "carousel": "images/constraint/protein-dna-ipsae/carousel.png",
+        "hero": "images/constraint/protein-dna-ipsae/hero.png"
+      }
+    },
+    "constraint/metal3d-probability": {
+      "variants": {
+        "social": "images/constraint/metal3d-probability/social.png",
+        "carousel": "images/constraint/metal3d-probability/carousel.png",
+        "hero": "images/constraint/metal3d-probability/hero.png"
+      }
+    },
+    "constraint/protein-globularity": {
+      "variants": {
+        "social": "images/constraint/protein-globularity/social.png",
+        "carousel": "images/constraint/protein-globularity/carousel.png",
+        "hero": "images/constraint/protein-globularity/hero.png"
+      }
+    },
+    "constraint/protein-symmetry-ring": {
+      "variants": {
+        "social": "images/constraint/protein-symmetry-ring/social.png",
+        "carousel": "images/constraint/protein-symmetry-ring/carousel.png",
+        "hero": "images/constraint/protein-symmetry-ring/hero.png"
+      }
+    },
+    "constraint/pyrosetta-interface": {
+      "variants": {
+        "social": "images/constraint/pyrosetta-interface/social.png",
+        "carousel": "images/constraint/pyrosetta-interface/carousel.png",
+        "hero": "images/constraint/pyrosetta-interface/hero.png"
+      }
+    },
+    "constraint/structure-plddt": {
+      "variants": {
+        "social": "images/constraint/structure-plddt/social.png",
+        "carousel": "images/constraint/structure-plddt/carousel.png",
+        "hero": "images/constraint/structure-plddt/hero.png"
+      }
+    },
+    "constraint/structure-ptm": {
+      "variants": {
+        "social": "images/constraint/structure-ptm/social.png",
+        "carousel": "images/constraint/structure-ptm/carousel.png",
+        "hero": "images/constraint/structure-ptm/hero.png"
+      }
+    },
+    "constraint/structure-iptm": {
+      "variants": {
+        "social": "images/constraint/structure-iptm/social.png",
+        "carousel": "images/constraint/structure-iptm/carousel.png",
+        "hero": "images/constraint/structure-iptm/hero.png"
+      }
+    },
+    "constraint/structure-pae": {
+      "variants": {
+        "social": "images/constraint/structure-pae/social.png",
+        "carousel": "images/constraint/structure-pae/carousel.png",
+        "hero": "images/constraint/structure-pae/hero.png"
+      }
+    },
+    "constraint/structure-iplddt": {
+      "variants": {
+        "social": "images/constraint/structure-iplddt/social.png",
+        "carousel": "images/constraint/structure-iplddt/carousel.png",
+        "hero": "images/constraint/structure-iplddt/hero.png"
+      }
+    },
+    "constraint/structure-ipae": {
+      "variants": {
+        "social": "images/constraint/structure-ipae/social.png",
+        "carousel": "images/constraint/structure-ipae/carousel.png",
+        "hero": "images/constraint/structure-ipae/hero.png"
+      }
+    },
+    "constraint/structure-composite": {
+      "variants": {
+        "social": "images/constraint/structure-composite/social.png",
+        "carousel": "images/constraint/structure-composite/carousel.png",
+        "hero": "images/constraint/structure-composite/hero.png"
+      }
+    },
+    "constraint/structure-ensemble-rmsd": {
+      "variants": {
+        "social": "images/constraint/structure-ensemble-rmsd/social.png",
+        "carousel": "images/constraint/structure-ensemble-rmsd/carousel.png",
+        "hero": "images/constraint/structure-ensemble-rmsd/hero.png"
+      }
+    },
+    "constraint/structure-contact": {
+      "variants": {
+        "social": "images/constraint/structure-contact/social.png",
+        "carousel": "images/constraint/structure-contact/carousel.png",
+        "hero": "images/constraint/structure-contact/hero.png"
+      }
+    },
+    "constraint/structure-interface-contact": {
+      "variants": {
+        "social": "images/constraint/structure-interface-contact/social.png",
+        "carousel": "images/constraint/structure-interface-contact/carousel.png",
+        "hero": "images/constraint/structure-interface-contact/hero.png"
+      }
+    },
+    "constraint/structure-radius-gyration": {
+      "variants": {
+        "social": "images/constraint/structure-radius-gyration/social.png",
+        "carousel": "images/constraint/structure-radius-gyration/carousel.png",
+        "hero": "images/constraint/structure-radius-gyration/hero.png"
+      }
+    },
+    "constraint/structure-helix": {
+      "variants": {
+        "social": "images/constraint/structure-helix/social.png",
+        "carousel": "images/constraint/structure-helix/carousel.png",
+        "hero": "images/constraint/structure-helix/hero.png"
+      }
+    },
+    "constraint/structure-beta-strand": {
+      "variants": {
+        "social": "images/constraint/structure-beta-strand/social.png",
+        "carousel": "images/constraint/structure-beta-strand/carousel.png",
+        "hero": "images/constraint/structure-beta-strand/hero.png"
+      }
+    },
+    "constraint/structure-distogram-cce": {
+      "variants": {
+        "social": "images/constraint/structure-distogram-cce/social.png",
+        "carousel": "images/constraint/structure-distogram-cce/carousel.png",
+        "hero": "images/constraint/structure-distogram-cce/hero.png"
+      }
+    },
+    "constraint/structure-termini-distance": {
+      "variants": {
+        "social": "images/constraint/structure-termini-distance/social.png",
+        "carousel": "images/constraint/structure-termini-distance/carousel.png",
+        "hero": "images/constraint/structure-termini-distance/hero.png"
+      }
+    },
+    "constraint/structure-rmsd": {
+      "variants": {
+        "social": "images/constraint/structure-rmsd/social.png",
+        "carousel": "images/constraint/structure-rmsd/carousel.png",
+        "hero": "images/constraint/structure-rmsd/hero.png"
+      }
+    },
+    "constraint/structure-tmscore": {
+      "variants": {
+        "social": "images/constraint/structure-tmscore/social.png",
+        "carousel": "images/constraint/structure-tmscore/carousel.png",
+        "hero": "images/constraint/structure-tmscore/hero.png"
+      }
+    },
+    "constraint/rna-property-similarity": {
+      "variants": {
+        "social": "images/constraint/rna-property-similarity/social.png",
+        "carousel": "images/constraint/rna-property-similarity/carousel.png",
+        "hero": "images/constraint/rna-property-similarity/hero.png"
+      }
+    },
+    "constraint/rna-motif-similarity": {
+      "variants": {
+        "social": "images/constraint/rna-motif-similarity/social.png",
+        "carousel": "images/constraint/rna-motif-similarity/carousel.png",
+        "hero": "images/constraint/rna-motif-similarity/hero.png"
+      }
+    },
+    "constraint/rna-feature-similarity": {
+      "variants": {
+        "social": "images/constraint/rna-feature-similarity/social.png",
+        "carousel": "images/constraint/rna-feature-similarity/carousel.png",
+        "hero": "images/constraint/rna-feature-similarity/hero.png"
+      }
+    },
+    "constraint/rna-basepair-similarity": {
+      "variants": {
+        "social": "images/constraint/rna-basepair-similarity/social.png",
+        "carousel": "images/constraint/rna-basepair-similarity/carousel.png",
+        "hero": "images/constraint/rna-basepair-similarity/hero.png"
+      }
+    },
+    "constraint/alphagenome-splice-junction": {
+      "variants": {
+        "social": "images/constraint/alphagenome-splice-junction/social.png",
+        "carousel": "images/constraint/alphagenome-splice-junction/carousel.png",
+        "hero": "images/constraint/alphagenome-splice-junction/hero.png"
+      }
+    },
+    "constraint/alphagenome-splice-site-usage": {
+      "variants": {
+        "social": "images/constraint/alphagenome-splice-site-usage/social.png",
+        "carousel": "images/constraint/alphagenome-splice-site-usage/carousel.png",
+        "hero": "images/constraint/alphagenome-splice-site-usage/hero.png"
+      }
+    },
+    "constraint/splice-transformer-intron-boundary": {
+      "variants": {
+        "social": "images/constraint/splice-transformer-intron-boundary/social.png",
+        "carousel": "images/constraint/splice-transformer-intron-boundary/carousel.png",
+        "hero": "images/constraint/splice-transformer-intron-boundary/hero.png"
+      }
+    },
+    "constraint/splice-transformer-specificity": {
+      "variants": {
+        "social": "images/constraint/splice-transformer-specificity/social.png",
+        "carousel": "images/constraint/splice-transformer-specificity/carousel.png",
+        "hero": "images/constraint/splice-transformer-specificity/hero.png"
+      }
+    },
+    "constraint/gap-gini": {
+      "variants": {
+        "social": "images/constraint/gap-gini/social.png",
+        "carousel": "images/constraint/gap-gini/carousel.png",
+        "hero": "images/constraint/gap-gini/hero.png"
+      }
+    },
+    "constraint/alphagenome-interval-track": {
+      "variants": {
+        "social": "images/constraint/alphagenome-interval-track/social.png",
+        "carousel": "images/constraint/alphagenome-interval-track/carousel.png",
+        "hero": "images/constraint/alphagenome-interval-track/hero.png"
+      }
+    },
+    "constraint/borzoi-chromatin-accessibility-morse": {
+      "variants": {
+        "social": "images/constraint/borzoi-chromatin-accessibility-morse/social.png",
+        "carousel": "images/constraint/borzoi-chromatin-accessibility-morse/carousel.png",
+        "hero": "images/constraint/borzoi-chromatin-accessibility-morse/hero.png"
+      }
+    },
+    "constraint/borzoi-track-activity": {
+      "variants": {
+        "social": "images/constraint/borzoi-track-activity/social.png",
+        "carousel": "images/constraint/borzoi-track-activity/carousel.png",
+        "hero": "images/constraint/borzoi-track-activity/hero.png"
+      }
+    },
+    "constraint/crispr-array": {
+      "variants": {
+        "social": "images/constraint/crispr-array/social.png",
+        "carousel": "images/constraint/crispr-array/carousel.png",
+        "hero": "images/constraint/crispr-array/hero.png"
+      }
+    },
+    "constraint/enformer-chromatin-accessibility-morse": {
+      "variants": {
+        "social": "images/constraint/enformer-chromatin-accessibility-morse/social.png",
+        "carousel": "images/constraint/enformer-chromatin-accessibility-morse/carousel.png",
+        "hero": "images/constraint/enformer-chromatin-accessibility-morse/hero.png"
+      }
+    },
+    "constraint/malinois-activity": {
+      "variants": {
+        "social": "images/constraint/malinois-activity/social.png",
+        "carousel": "images/constraint/malinois-activity/carousel.png",
+        "hero": "images/constraint/malinois-activity/hero.png"
+      }
+    },
+    "constraint/mirna-specificity": {
+      "variants": {
+        "social": "images/constraint/mirna-specificity/social.png",
+        "carousel": "images/constraint/mirna-specificity/carousel.png",
+        "hero": "images/constraint/mirna-specificity/hero.png"
+      }
+    },
+    "constraint/mmseqs-gene-similarity": {
+      "variants": {
+        "social": "images/constraint/mmseqs-gene-similarity/social.png",
+        "carousel": "images/constraint/mmseqs-gene-similarity/carousel.png",
+        "hero": "images/constraint/mmseqs-gene-similarity/hero.png"
+      }
+    },
+    "constraint/operator-site": {
+      "variants": {
+        "social": "images/constraint/operator-site/social.png",
+        "carousel": "images/constraint/operator-site/carousel.png",
+        "hero": "images/constraint/operator-site/hero.png"
+      }
+    },
+    "constraint/longest-orf-length": {
+      "variants": {
+        "social": "images/constraint/longest-orf-length/social.png",
+        "carousel": "images/constraint/longest-orf-length/carousel.png",
+        "hero": "images/constraint/longest-orf-length/hero.png"
+      }
+    },
+    "constraint/promoter-strength": {
+      "variants": {
+        "social": "images/constraint/promoter-strength/social.png",
+        "carousel": "images/constraint/promoter-strength/carousel.png",
+        "hero": "images/constraint/promoter-strength/hero.png"
+      }
+    },
+    "constraint/puffin-promoter-activity": {
+      "variants": {
+        "social": "images/constraint/puffin-promoter-activity/social.png",
+        "carousel": "images/constraint/puffin-promoter-activity/carousel.png",
+        "hero": "images/constraint/puffin-promoter-activity/hero.png"
+      }
+    },
+    "constraint/seq-motif": {
+      "variants": {
+        "social": "images/constraint/seq-motif/social.png",
+        "carousel": "images/constraint/seq-motif/carousel.png",
+        "hero": "images/constraint/seq-motif/hero.png"
+      }
+    },
+    "constraint/sigma70-promoter": {
+      "variants": {
+        "social": "images/constraint/sigma70-promoter/social.png",
+        "carousel": "images/constraint/sigma70-promoter/carousel.png",
+        "hero": "images/constraint/sigma70-promoter/hero.png"
+      }
+    },
+    "constraint/targetscan-site": {
+      "variants": {
+        "social": "images/constraint/targetscan-site/social.png",
+        "carousel": "images/constraint/targetscan-site/carousel.png",
+        "hero": "images/constraint/targetscan-site/hero.png"
+      }
+    },
+    "constraint/crispr-tracr-rna": {
+      "variants": {
+        "social": "images/constraint/crispr-tracr-rna/social.png",
+        "carousel": "images/constraint/crispr-tracr-rna/carousel.png",
+        "hero": "images/constraint/crispr-tracr-rna/hero.png"
+      }
+    },
+    "constraint/dinucleotide-composition": {
+      "variants": {
+        "social": "images/constraint/dinucleotide-composition/social.png",
+        "carousel": "images/constraint/dinucleotide-composition/carousel.png",
+        "hero": "images/constraint/dinucleotide-composition/hero.png"
+      }
+    },
+    "constraint/gc-content": {
+      "variants": {
+        "social": "images/constraint/gc-content/social.png",
+        "carousel": "images/constraint/gc-content/carousel.png",
+        "hero": "images/constraint/gc-content/hero.png"
+      }
+    },
+    "constraint/kmer-frequency": {
+      "variants": {
+        "social": "images/constraint/kmer-frequency/social.png",
+        "carousel": "images/constraint/kmer-frequency/carousel.png",
+        "hero": "images/constraint/kmer-frequency/hero.png"
+      }
+    },
+    "constraint/max-homopolymer": {
+      "variants": {
+        "social": "images/constraint/max-homopolymer/social.png",
+        "carousel": "images/constraint/max-homopolymer/carousel.png",
+        "hero": "images/constraint/max-homopolymer/hero.png"
+      }
+    },
+    "constraint/sequence-length": {
+      "variants": {
+        "social": "images/constraint/sequence-length/social.png",
+        "carousel": "images/constraint/sequence-length/carousel.png",
+        "hero": "images/constraint/sequence-length/hero.png"
+      }
+    },
+    "constraint/specific-kmer-frequency": {
+      "variants": {
+        "social": "images/constraint/specific-kmer-frequency/social.png",
+        "carousel": "images/constraint/specific-kmer-frequency/carousel.png",
+        "hero": "images/constraint/specific-kmer-frequency/hero.png"
+      }
+    },
+    "constraint/ablang-perplexity": {
+      "variants": {
+        "social": "images/constraint/ablang-perplexity/social.png",
+        "carousel": "images/constraint/ablang-perplexity/carousel.png",
+        "hero": "images/constraint/ablang-perplexity/hero.png"
+      }
+    },
+    "constraint/esm2-perplexity": {
+      "variants": {
+        "social": "images/constraint/esm2-perplexity/social.png",
+        "carousel": "images/constraint/esm2-perplexity/carousel.png",
+        "hero": "images/constraint/esm2-perplexity/hero.png"
+      }
+    },
+    "constraint/mpnn-perplexity": {
+      "variants": {
+        "social": "images/constraint/mpnn-perplexity/social.png",
+        "carousel": "images/constraint/mpnn-perplexity/carousel.png",
+        "hero": "images/constraint/mpnn-perplexity/hero.png"
+      }
+    },
+    "constraint/mpnn-sequence-probability": {
+      "variants": {
+        "social": "images/constraint/mpnn-sequence-probability/social.png",
+        "carousel": "images/constraint/mpnn-sequence-probability/carousel.png",
+        "hero": "images/constraint/mpnn-sequence-probability/hero.png"
+      }
+    },
+    "generator/esm2": {
+      "variants": {
+        "social": "images/generator/esm2/social.png",
+        "carousel": "images/generator/esm2/carousel.png",
+        "hero": "images/generator/esm2/hero.png"
+      }
+    },
+    "generator/esm3": {
+      "variants": {
+        "social": "images/generator/esm3/social.png",
+        "carousel": "images/generator/esm3/carousel.png",
+        "hero": "images/generator/esm3/hero.png"
+      }
+    },
+    "generator/evo1": {
+      "variants": {
+        "social": "images/generator/evo1/social.png",
+        "carousel": "images/generator/evo1/carousel.png",
+        "hero": "images/generator/evo1/hero.png"
+      }
+    },
+    "generator/evo2": {
+      "variants": {
+        "social": "images/generator/evo2/social.png",
+        "carousel": "images/generator/evo2/carousel.png",
+        "hero": "images/generator/evo2/hero.png"
+      }
+    },
+    "generator/fampnn": {
+      "variants": {
+        "social": "images/generator/fampnn/social.png",
+        "carousel": "images/generator/fampnn/carousel.png",
+        "hero": "images/generator/fampnn/hero.png"
+      }
+    },
+    "generator/freebindcraft": {
+      "variants": {
+        "social": "images/generator/freebindcraft/social.png",
+        "carousel": "images/generator/freebindcraft/carousel.png",
+        "hero": "images/generator/freebindcraft/hero.png"
+      }
+    },
+    "generator/ligandmpnn": {
+      "variants": {
+        "social": "images/generator/ligandmpnn/social.png",
+        "carousel": "images/generator/ligandmpnn/carousel.png",
+        "hero": "images/generator/ligandmpnn/hero.png"
+      }
+    },
+    "generator/mpnn-mutation": {
+      "variants": {
+        "social": "images/generator/mpnn-mutation/social.png",
+        "carousel": "images/generator/mpnn-mutation/carousel.png",
+        "hero": "images/generator/mpnn-mutation/hero.png"
+      }
+    },
+    "generator/msa": {
+      "variants": {
+        "social": "images/generator/msa/social.png",
+        "carousel": "images/generator/msa/carousel.png",
+        "hero": "images/generator/msa/hero.png"
+      }
+    },
+    "generator/position-weight": {
+      "variants": {
+        "social": "images/generator/position-weight/social.png",
+        "carousel": "images/generator/position-weight/carousel.png",
+        "hero": "images/generator/position-weight/hero.png"
+      }
+    },
+    "generator/progen2": {
+      "variants": {
+        "social": "images/generator/progen2/social.png",
+        "carousel": "images/generator/progen2/carousel.png",
+        "hero": "images/generator/progen2/hero.png"
+      }
+    },
+    "generator/proteinmpnn": {
+      "variants": {
+        "social": "images/generator/proteinmpnn/social.png",
+        "carousel": "images/generator/proteinmpnn/carousel.png",
+        "hero": "images/generator/proteinmpnn/hero.png"
+      }
+    },
+    "generator/random-nucleotide": {
+      "variants": {
+        "social": "images/generator/random-nucleotide/social.png",
+        "carousel": "images/generator/random-nucleotide/carousel.png",
+        "hero": "images/generator/random-nucleotide/hero.png"
+      }
+    },
+    "generator/random-protein": {
+      "variants": {
+        "social": "images/generator/random-protein/social.png",
+        "carousel": "images/generator/random-protein/carousel.png",
+        "hero": "images/generator/random-protein/hero.png"
+      }
+    },
+    "generator/rfdiffusion-mpnn-binder": {
+      "variants": {
+        "social": "images/generator/rfdiffusion-mpnn-binder/social.png",
+        "carousel": "images/generator/rfdiffusion-mpnn-binder/carousel.png",
+        "hero": "images/generator/rfdiffusion-mpnn-binder/hero.png"
+      }
+    },
+    "generator/semigreedy-mutation": {
+      "variants": {
+        "social": "images/generator/semigreedy-mutation/social.png",
+        "carousel": "images/generator/semigreedy-mutation/carousel.png",
+        "hero": "images/generator/semigreedy-mutation/hero.png"
+      }
+    },
+    "optimizer/beam-search": {
+      "variants": {
+        "social": "images/optimizer/beam-search/social.png",
+        "carousel": "images/optimizer/beam-search/carousel.png",
+        "hero": "images/optimizer/beam-search/hero.png"
+      }
+    },
+    "optimizer/cycling": {
+      "variants": {
+        "social": "images/optimizer/cycling/social.png",
+        "carousel": "images/optimizer/cycling/carousel.png",
+        "hero": "images/optimizer/cycling/hero.png"
+      }
+    },
+    "optimizer/genetic-algorithm": {
+      "variants": {
+        "social": "images/optimizer/genetic-algorithm/social.png",
+        "carousel": "images/optimizer/genetic-algorithm/carousel.png",
+        "hero": "images/optimizer/genetic-algorithm/hero.png"
+      }
+    },
+    "optimizer/gradient": {
+      "variants": {
+        "social": "images/optimizer/gradient/social.png",
+        "carousel": "images/optimizer/gradient/carousel.png",
+        "hero": "images/optimizer/gradient/hero.png"
+      }
+    },
+    "optimizer/mcmc": {
+      "variants": {
+        "social": "images/optimizer/mcmc/social.png",
+        "carousel": "images/optimizer/mcmc/carousel.png",
+        "hero": "images/optimizer/mcmc/hero.png"
+      }
+    },
+    "optimizer/rejection-sampling": {
+      "variants": {
+        "social": "images/optimizer/rejection-sampling/social.png",
+        "carousel": "images/optimizer/rejection-sampling/carousel.png",
+        "hero": "images/optimizer/rejection-sampling/hero.png"
+      }
+    },
+    "tool/vina": {
+      "variants": {
+        "social": "images/tool/vina/social.png",
+        "carousel": "images/tool/vina/carousel.png",
+        "hero": "images/tool/vina/hero.png",
+        "app": "images/tool/vina/app.png",
+        "hero_plain": "images/tool/vina/hero_plain.png"
+      }
+    },
+    "tool/esmc_sae": {
+      "variants": {
+        "social": "images/tool/esmc_sae/social.png",
+        "carousel": "images/tool/esmc_sae/carousel.png",
+        "hero": "images/tool/esmc_sae/hero.png",
+        "app": "images/tool/esmc_sae/app.png",
+        "hero_plain": "images/tool/esmc_sae/hero_plain.png"
+      }
+    },
+    "tool/codonfm": {
+      "variants": {
+        "social": "images/tool/codonfm/social.png",
+        "carousel": "images/tool/codonfm/carousel.png",
+        "hero": "images/tool/codonfm/hero.png",
+        "app": "images/tool/codonfm/app.png",
+        "hero_plain": "images/tool/codonfm/hero_plain.png"
+      }
+    },
+    "tool/cherimoya": {
+      "variants": {
+        "social": "images/tool/cherimoya/social.png",
+        "carousel": "images/tool/cherimoya/carousel.png",
+        "hero": "images/tool/cherimoya/hero.png",
+        "app": "images/tool/cherimoya/app.png",
+        "hero_plain": "images/tool/cherimoya/hero_plain.png"
+      }
+    },
+    "tool/primer3": {
+      "variants": {
+        "social": "images/tool/primer3/social.png",
+        "carousel": "images/tool/primer3/carousel.png",
+        "hero": "images/tool/primer3/hero.png",
+        "app": "images/tool/primer3/app.png",
+        "hero_plain": "images/tool/primer3/hero_plain.png"
+      }
+    }
+  }
+}
