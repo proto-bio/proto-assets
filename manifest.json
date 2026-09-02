@@ -480,6 +480,15 @@
         "hero_plain": "images/tool/enformer/hero_plain.png"
       }
     },
+    "tool/genomic_intelligence": {
+      "variants": {
+        "social": "images/tool/genomic_intelligence/social.png",
+        "carousel": "images/tool/genomic_intelligence/carousel.png",
+        "hero": "images/tool/genomic_intelligence/hero.png",
+        "app": "images/tool/genomic_intelligence/app.png",
+        "hero_plain": "images/tool/genomic_intelligence/hero_plain.png"
+      }
+    },
     "tool/malinois": {
       "variants": {
         "social": "images/tool/malinois/social.png",
