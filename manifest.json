@@ -192,6 +192,15 @@
         "hero_plain": "images/tool/ncbi/hero_plain.png"
       }
     },
+    "tool/paperclip": {
+      "variants": {
+        "social": "images/tool/paperclip/social.png",
+        "carousel": "images/tool/paperclip/carousel.png",
+        "hero": "images/tool/paperclip/hero.png",
+        "app": "images/tool/paperclip/app.png",
+        "hero_plain": "images/tool/paperclip/hero_plain.png"
+      }
+    },
     "tool/pdb": {
       "variants": {
         "social": "images/tool/pdb/social.png",
