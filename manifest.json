@@ -372,6 +372,15 @@
         "hero_plain": "images/tool/glm2/hero_plain.png"
       }
     },
+    "tool/minerva": {
+      "variants": {
+        "social": "images/tool/minerva/social.png",
+        "carousel": "images/tool/minerva/carousel.png",
+        "hero": "images/tool/minerva/hero.png",
+        "app": "images/tool/minerva/app.png",
+        "hero_plain": "images/tool/minerva/hero_plain.png"
+      }
+    },
     "tool/random_nucleotide": {
       "variants": {
         "social": "images/tool/random_nucleotide/social.png",
