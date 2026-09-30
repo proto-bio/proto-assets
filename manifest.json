@@ -363,6 +363,15 @@
         "hero_plain": "images/tool/esmc/hero_plain.png"
       }
     },
+    "tool/glm2": {
+      "variants": {
+        "social": "images/tool/glm2/social.png",
+        "carousel": "images/tool/glm2/carousel.png",
+        "hero": "images/tool/glm2/hero.png",
+        "app": "images/tool/glm2/app.png",
+        "hero_plain": "images/tool/glm2/hero_plain.png"
+      }
+    },
     "tool/random_nucleotide": {
       "variants": {
         "social": "images/tool/random_nucleotide/social.png",
