@@ -219,6 +219,15 @@
         "hero_plain": "images/tool/pubchem/hero_plain.png"
       }
     },
+    "tool/rfam": {
+      "variants": {
+        "social": "images/tool/rfam/social.png",
+        "carousel": "images/tool/rfam/carousel.png",
+        "hero": "images/tool/rfam/hero.png",
+        "app": "images/tool/rfam/app.png",
+        "hero_plain": "images/tool/rfam/hero_plain.png"
+      }
+    },
     "tool/sequence_fetch": {
       "variants": {
         "social": "images/tool/sequence_fetch/social.png",
