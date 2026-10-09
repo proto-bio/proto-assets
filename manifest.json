@@ -453,6 +453,15 @@
         "hero_plain": "images/tool/spliceai/hero_plain.png"
       }
     },
+    "tool/spliceai2": {
+      "variants": {
+        "social": "images/tool/spliceai2/social.png",
+        "carousel": "images/tool/spliceai2/carousel.png",
+        "hero": "images/tool/spliceai2/hero.png",
+        "app": "images/tool/spliceai2/app.png",
+        "hero_plain": "images/tool/spliceai2/hero_plain.png"
+      }
+    },
     "tool/blast": {
       "variants": {
         "social": "images/tool/blast/social.png",
