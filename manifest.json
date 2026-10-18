@@ -300,6 +300,15 @@
         "hero_plain": "images/tool/pyhmmer/hero_plain.png"
       }
     },
+    "tool/caliby": {
+      "variants": {
+        "social": "images/tool/caliby/social.png",
+        "carousel": "images/tool/caliby/carousel.png",
+        "app": "images/tool/caliby/app.png",
+        "hero": "images/tool/caliby/hero.png",
+        "hero_plain": "images/tool/caliby/hero_plain.png"
+      }
+    },
     "tool/esm_if1": {
       "variants": {
         "social": "images/tool/esm_if1/social.png",
