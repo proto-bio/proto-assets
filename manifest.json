@@ -246,6 +246,15 @@
         "hero_plain": "images/tool/uniprot/hero_plain.png"
       }
     },
+    "tool/netmhcpan": {
+      "variants": {
+        "social": "images/tool/netmhcpan/social.png",
+        "carousel": "images/tool/netmhcpan/carousel.png",
+        "hero": "images/tool/netmhcpan/hero.png",
+        "app": "images/tool/netmhcpan/app.png",
+        "hero_plain": "images/tool/netmhcpan/hero_plain.png"
+      }
+    },
     "tool/crispr_tracr_rna": {
       "variants": {
         "social": "images/tool/crispr_tracr_rna/social.png",
