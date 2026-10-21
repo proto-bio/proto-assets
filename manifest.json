@@ -651,6 +651,15 @@
         "hero_plain": "images/tool/rfdiffusion3/hero_plain.png"
       }
     },
+    "tool/rfd4_proteina": {
+      "variants": {
+        "social": "images/tool/rfd4_proteina/social.png",
+        "carousel": "images/tool/rfd4_proteina/carousel.png",
+        "app": "images/tool/rfd4_proteina/app.png",
+        "hero": "images/tool/rfd4_proteina/hero.png",
+        "hero_plain": "images/tool/rfd4_proteina/hero_plain.png"
+      }
+    },
     "tool/bioemu": {
       "variants": {
         "social": "images/tool/bioemu/social.png",
