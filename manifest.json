@@ -1368,6 +1368,55 @@
         "hero": "images/constraint/mpnn-sequence-probability/hero.png"
       }
     },
+    "constraint/parade-utr-activity": {
+      "variants": {
+        "social": "images/constraint/parade-utr-activity/social.png",
+        "carousel": "images/constraint/parade-utr-activity/carousel.png",
+        "hero": "images/constraint/parade-utr-activity/hero.png"
+      }
+    },
+    "constraint/parade-utr-specificity": {
+      "variants": {
+        "social": "images/constraint/parade-utr-specificity/social.png",
+        "carousel": "images/constraint/parade-utr-specificity/carousel.png",
+        "hero": "images/constraint/parade-utr-specificity/hero.png"
+      }
+    },
+    "constraint/parade-utr-stability": {
+      "variants": {
+        "social": "images/constraint/parade-utr-stability/social.png",
+        "carousel": "images/constraint/parade-utr-stability/carousel.png",
+        "hero": "images/constraint/parade-utr-stability/hero.png"
+      }
+    },
+    "constraint/mfe": {
+      "variants": {
+        "social": "images/constraint/mfe/social.png",
+        "carousel": "images/constraint/mfe/carousel.png",
+        "hero": "images/constraint/mfe/hero.png"
+      }
+    },
+    "constraint/codon-adaptation-index": {
+      "variants": {
+        "social": "images/constraint/codon-adaptation-index/social.png",
+        "carousel": "images/constraint/codon-adaptation-index/carousel.png",
+        "hero": "images/constraint/codon-adaptation-index/hero.png"
+      }
+    },
+    "constraint/uracil-content": {
+      "variants": {
+        "social": "images/constraint/uracil-content/social.png",
+        "carousel": "images/constraint/uracil-content/carousel.png",
+        "hero": "images/constraint/uracil-content/hero.png"
+      }
+    },
+    "constraint/codonfm-fitness": {
+      "variants": {
+        "social": "images/constraint/codonfm-fitness/social.png",
+        "carousel": "images/constraint/codonfm-fitness/carousel.png",
+        "hero": "images/constraint/codonfm-fitness/hero.png"
+      }
+    },
     "generator/esm2": {
       "variants": {
         "social": "images/generator/esm2/social.png",
@@ -1478,6 +1527,13 @@
         "social": "images/generator/semigreedy-mutation/social.png",
         "carousel": "images/generator/semigreedy-mutation/carousel.png",
         "hero": "images/generator/semigreedy-mutation/hero.png"
+      }
+    },
+    "generator/codonfm": {
+      "variants": {
+        "social": "images/generator/codonfm/social.png",
+        "carousel": "images/generator/codonfm/carousel.png",
+        "hero": "images/generator/codonfm/hero.png"
       }
     },
     "optimizer/beam-search": {
