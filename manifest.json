@@ -237,6 +237,15 @@
         "hero_plain": "images/tool/sequence_fetch/hero_plain.png"
       }
     },
+    "tool/synbiohub": {
+      "variants": {
+        "social": "images/tool/synbiohub/social.png",
+        "carousel": "images/tool/synbiohub/carousel.png",
+        "app": "images/tool/synbiohub/app.png",
+        "hero": "images/tool/synbiohub/hero.png",
+        "hero_plain": "images/tool/synbiohub/hero_plain.png"
+      }
+    },
     "tool/uniprot": {
       "variants": {
         "social": "images/tool/uniprot/social.png",
