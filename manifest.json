@@ -138,6 +138,15 @@
         "hero_plain": "images/tool/progen3/hero_plain.png"
       }
     },
+    "tool/iglm": {
+      "variants": {
+        "social": "images/tool/iglm/social.png",
+        "carousel": "images/tool/iglm/carousel.png",
+        "app": "images/tool/iglm/app.png",
+        "hero": "images/tool/iglm/hero.png",
+        "hero_plain": "images/tool/iglm/hero_plain.png"
+      }
+    },
     "tool/alphafold_db": {
       "variants": {
         "social": "images/tool/alphafold_db/social.png",
