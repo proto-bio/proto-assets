@@ -786,6 +786,15 @@
         "hero_plain": "images/tool/x3dna/hero_plain.png"
       }
     },
+    "tool/mol1": {
+      "variants": {
+        "social": "images/tool/mol1/social.png",
+        "carousel": "images/tool/mol1/carousel.png",
+        "app": "images/tool/mol1/app.png",
+        "hero": "images/tool/mol1/hero.png",
+        "hero_plain": "images/tool/mol1/hero_plain.png"
+      }
+    },
     "tool/dssp": {
       "variants": {
         "social": "images/tool/dssp/social.png",
