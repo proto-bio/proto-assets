@@ -1649,6 +1649,42 @@
         "app": "images/tool/primer3/app.png",
         "hero_plain": "images/tool/primer3/hero_plain.png"
       }
+    },
+    "tool/encode": {
+      "variants": {
+        "social": "images/tool/encode/social.png",
+        "carousel": "images/tool/encode/carousel.png",
+        "hero": "images/tool/encode/hero.png",
+        "app": "images/tool/encode/app.png",
+        "hero_plain": "images/tool/encode/hero_plain.png"
+      }
+    },
+    "tool/europepmc": {
+      "variants": {
+        "social": "images/tool/europepmc/social.png",
+        "carousel": "images/tool/europepmc/carousel.png",
+        "hero": "images/tool/europepmc/hero.png",
+        "app": "images/tool/europepmc/app.png",
+        "hero_plain": "images/tool/europepmc/hero_plain.png"
+      }
+    },
+    "tool/arxiv": {
+      "variants": {
+        "social": "images/tool/arxiv/social.png",
+        "carousel": "images/tool/arxiv/carousel.png",
+        "hero": "images/tool/arxiv/hero.png",
+        "app": "images/tool/arxiv/app.png",
+        "hero_plain": "images/tool/arxiv/hero_plain.png"
+      }
+    },
+    "tool/biorxiv": {
+      "variants": {
+        "social": "images/tool/biorxiv/social.png",
+        "carousel": "images/tool/biorxiv/carousel.png",
+        "hero": "images/tool/biorxiv/hero.png",
+        "app": "images/tool/biorxiv/app.png",
+        "hero_plain": "images/tool/biorxiv/hero_plain.png"
+      }
     }
   }
 }
