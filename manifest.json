@@ -291,6 +291,15 @@
         "hero_plain": "images/tool/biorxiv/hero_plain.png"
       }
     },
+    "tool/encode": {
+      "variants": {
+        "social": "images/tool/encode/social.png",
+        "carousel": "images/tool/encode/carousel.png",
+        "app": "images/tool/encode/app.png",
+        "hero": "images/tool/encode/hero.png",
+        "hero_plain": "images/tool/encode/hero_plain.png"
+      }
+    },
     "tool/netmhcpan": {
       "variants": {
         "social": "images/tool/netmhcpan/social.png",
@@ -352,6 +361,15 @@
         "hero": "images/tool/pyhmmer/hero.png",
         "app": "images/tool/pyhmmer/app.png",
         "hero_plain": "images/tool/pyhmmer/hero_plain.png"
+      }
+    },
+    "tool/crispr_guides": {
+      "variants": {
+        "social": "images/tool/crispr_guides/social.png",
+        "carousel": "images/tool/crispr_guides/carousel.png",
+        "app": "images/tool/crispr_guides/app.png",
+        "hero": "images/tool/crispr_guides/hero.png",
+        "hero_plain": "images/tool/crispr_guides/hero_plain.png"
       }
     },
     "tool/caliby": {
@@ -552,6 +570,15 @@
         "hero_plain": "images/tool/mmseqs2/hero_plain.png"
       }
     },
+    "tool/crispritz": {
+      "variants": {
+        "social": "images/tool/crispritz/social.png",
+        "carousel": "images/tool/crispritz/carousel.png",
+        "app": "images/tool/crispritz/app.png",
+        "hero": "images/tool/crispritz/hero.png",
+        "hero_plain": "images/tool/crispritz/hero_plain.png"
+      }
+    },
     "tool/alphagenome": {
       "variants": {
         "social": "images/tool/alphagenome/social.png",
@@ -640,6 +667,15 @@
         "hero": "images/tool/segmasker/hero.png",
         "app": "images/tool/segmasker/app.png",
         "hero_plain": "images/tool/segmasker/hero_plain.png"
+      }
+    },
+    "tool/rs3": {
+      "variants": {
+        "social": "images/tool/rs3/social.png",
+        "carousel": "images/tool/rs3/carousel.png",
+        "app": "images/tool/rs3/app.png",
+        "hero": "images/tool/rs3/hero.png",
+        "hero_plain": "images/tool/rs3/hero_plain.png"
       }
     },
     "tool/foldmason": {
