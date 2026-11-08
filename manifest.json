@@ -264,6 +264,33 @@
         "hero_plain": "images/tool/uniprot/hero_plain.png"
       }
     },
+    "tool/europepmc": {
+      "variants": {
+        "social": "images/tool/europepmc/social.png",
+        "carousel": "images/tool/europepmc/carousel.png",
+        "app": "images/tool/europepmc/app.png",
+        "hero": "images/tool/europepmc/hero.png",
+        "hero_plain": "images/tool/europepmc/hero_plain.png"
+      }
+    },
+    "tool/arxiv": {
+      "variants": {
+        "social": "images/tool/arxiv/social.png",
+        "carousel": "images/tool/arxiv/carousel.png",
+        "app": "images/tool/arxiv/app.png",
+        "hero": "images/tool/arxiv/hero.png",
+        "hero_plain": "images/tool/arxiv/hero_plain.png"
+      }
+    },
+    "tool/biorxiv": {
+      "variants": {
+        "social": "images/tool/biorxiv/social.png",
+        "carousel": "images/tool/biorxiv/carousel.png",
+        "app": "images/tool/biorxiv/app.png",
+        "hero": "images/tool/biorxiv/hero.png",
+        "hero_plain": "images/tool/biorxiv/hero_plain.png"
+      }
+    },
     "tool/netmhcpan": {
       "variants": {
         "social": "images/tool/netmhcpan/social.png",
