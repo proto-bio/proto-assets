@@ -547,8 +547,8 @@
       "variants": {
         "social": "images/tool/blast/social.png",
         "carousel": "images/tool/blast/carousel.png",
-        "hero": "images/tool/blast/hero.png",
         "app": "images/tool/blast/app.png",
+        "hero": "images/tool/blast/hero.png",
         "hero_plain": "images/tool/blast/hero_plain.png"
       }
     },
@@ -601,8 +601,8 @@
       "variants": {
         "social": "images/tool/deeppbs_specificity/social.png",
         "carousel": "images/tool/deeppbs_specificity/carousel.png",
-        "hero": "images/tool/deeppbs_specificity/hero.png",
         "app": "images/tool/deeppbs_specificity/app.png",
+        "hero": "images/tool/deeppbs_specificity/hero.png",
         "hero_plain": "images/tool/deeppbs_specificity/hero_plain.png"
       }
     },
@@ -637,8 +637,8 @@
       "variants": {
         "social": "images/tool/na_mpnn_specificity/social.png",
         "carousel": "images/tool/na_mpnn_specificity/carousel.png",
-        "hero": "images/tool/na_mpnn_specificity/hero.png",
         "app": "images/tool/na_mpnn_specificity/app.png",
+        "hero": "images/tool/na_mpnn_specificity/hero.png",
         "hero_plain": "images/tool/na_mpnn_specificity/hero_plain.png"
       }
     },
@@ -664,8 +664,8 @@
       "variants": {
         "social": "images/tool/segmasker/social.png",
         "carousel": "images/tool/segmasker/carousel.png",
-        "hero": "images/tool/segmasker/hero.png",
         "app": "images/tool/segmasker/app.png",
+        "hero": "images/tool/segmasker/hero.png",
         "hero_plain": "images/tool/segmasker/hero_plain.png"
       }
     },
@@ -880,8 +880,8 @@
       "variants": {
         "social": "images/tool/metal3d/social.png",
         "carousel": "images/tool/metal3d/carousel.png",
-        "hero": "images/tool/metal3d/hero.png",
         "app": "images/tool/metal3d/app.png",
+        "hero": "images/tool/metal3d/hero.png",
         "hero_plain": "images/tool/metal3d/hero_plain.png"
       }
     },
